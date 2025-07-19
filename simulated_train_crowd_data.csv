@@ -1,0 +1,201 @@
+Train No,Station,Time,Day,Crowd Level
+12876,NDLS,14:00,Tuesday,High
+14115,Howrah,12:00,Sunday,Medium
+14265,Dhanbad,18:00,Friday,Medium
+12261,Solapur,18:00,Saturday,Medium
+12261,Solapur,08:00,Saturday,High
+13123,Pune,22:00,Wednesday,Low
+12002,Howrah,20:00,Friday,High
+22123,Allahabad,16:00,Monday,Medium
+12951,Solapur,20:00,Wednesday,Medium
+12261,Dhanbad,10:00,Tuesday,Very High
+22123,Patna,16:00,Wednesday,Very High
+14265,NDLS,14:00,Friday,Medium
+13123,Patna,18:00,Sunday,Medium
+22123,Varanasi,10:00,Tuesday,Very High
+12002,Varanasi,20:00,Saturday,High
+12002,NDLS,08:00,Monday,High
+12312,Solapur,22:00,Friday,Very High
+14265,NDLS,08:00,Thursday,Medium
+14265,Patna,12:00,Friday,High
+14115,Jaipur,08:00,Thursday,High
+13123,Pune,12:00,Thursday,High
+12876,Chandigarh,10:00,Saturday,Low
+12312,Howrah,18:00,Sunday,Medium
+12261,Solapur,22:00,Thursday,High
+22123,Allahabad,06:00,Tuesday,High
+12951,Lucknow,08:00,Wednesday,Medium
+12876,Patna,06:00,Monday,Low
+11056,Kanpur,18:00,Friday,High
+14115,Solapur,22:00,Monday,High
+14265,Solapur,16:00,Saturday,High
+14265,Jaipur,04:00,Tuesday,Medium
+12312,Varanasi,04:00,Friday,High
+12002,Kanpur,10:00,Saturday,Low
+11056,Mumbai CST,04:00,Monday,Medium
+12261,Solapur,16:00,Tuesday,High
+14265,Allahabad,12:00,Friday,Medium
+12261,Lucknow,20:00,Thursday,High
+14115,Lucknow,14:00,Sunday,High
+12261,NDLS,12:00,Wednesday,Medium
+12951,Allahabad,22:00,Saturday,Very High
+12876,Allahabad,12:00,Thursday,Very High
+12876,Kanpur,12:00,Thursday,High
+11056,Mumbai CST,04:00,Thursday,High
+11056,Lucknow,22:00,Friday,Very High
+14265,Howrah,08:00,Sunday,High
+13123,Dhanbad,16:00,Monday,High
+14265,NDLS,10:00,Sunday,Low
+14265,Howrah,12:00,Friday,Medium
+12951,Howrah,10:00,Monday,High
+12002,Pune,10:00,Friday,Very High
+14265,Jaipur,08:00,Monday,High
+12312,NDLS,10:00,Wednesday,High
+14115,Dhanbad,22:00,Friday,High
+12312,Varanasi,20:00,Monday,High
+14115,Patna,20:00,Friday,High
+11056,Kanpur,18:00,Friday,High
+14265,Allahabad,08:00,Wednesday,Very High
+12951,Chandigarh,14:00,Wednesday,High
+11056,Kanpur,10:00,Friday,Very High
+12876,Kanpur,12:00,Thursday,Medium
+14115,Mumbai CST,22:00,Tuesday,High
+12876,Patna,06:00,Friday,High
+13123,NDLS,08:00,Tuesday,Medium
+11056,Lucknow,18:00,Wednesday,High
+14115,Dhanbad,12:00,Saturday,High
+12876,Solapur,18:00,Thursday,Very High
+14265,Pune,14:00,Friday,Medium
+12951,Kanpur,22:00,Monday,Low
+14265,Solapur,18:00,Wednesday,Very High
+12002,Howrah,14:00,Saturday,High
+12312,Howrah,10:00,Sunday,High
+14265,Allahabad,20:00,Saturday,Medium
+12312,Pune,18:00,Friday,Very High
+12002,Howrah,14:00,Wednesday,Medium
+12951,Dhanbad,16:00,Monday,High
+14265,Howrah,08:00,Thursday,High
+13123,Dhanbad,20:00,Saturday,Low
+12002,Dhanbad,04:00,Sunday,Very High
+12951,Patna,20:00,Saturday,Low
+14265,Patna,12:00,Friday,Medium
+12261,Jaipur,08:00,Tuesday,Low
+13123,Chandigarh,10:00,Thursday,High
+13123,Allahabad,12:00,Tuesday,Medium
+12876,Howrah,14:00,Wednesday,Medium
+12876,Jaipur,12:00,Tuesday,Medium
+14265,Lucknow,14:00,Sunday,High
+12002,Dhanbad,18:00,Thursday,Very High
+14265,Varanasi,20:00,Thursday,Very High
+13123,Patna,22:00,Thursday,High
+11056,Kanpur,04:00,Sunday,Very High
+12951,Mumbai CST,10:00,Sunday,High
+12876,Dhanbad,08:00,Thursday,Low
+11056,NDLS,20:00,Friday,High
+14115,Mumbai CST,14:00,Tuesday,High
+12876,Jaipur,20:00,Wednesday,Low
+12261,NDLS,10:00,Friday,Medium
+13123,Jaipur,16:00,Thursday,High
+12002,Mumbai CST,06:00,Saturday,High
+13123,Kanpur,04:00,Thursday,Medium
+12002,Mumbai CST,12:00,Thursday,Very High
+22123,Solapur,14:00,Sunday,High
+12002,Chandigarh,16:00,Monday,Low
+12261,Jaipur,22:00,Friday,High
+12261,Mumbai CST,22:00,Friday,High
+12951,Varanasi,22:00,Tuesday,Very High
+11056,Howrah,06:00,Saturday,Medium
+13123,Howrah,08:00,Friday,Medium
+12951,Chandigarh,06:00,Tuesday,Medium
+12951,NDLS,12:00,Thursday,Medium
+12261,Chandigarh,06:00,Saturday,High
+11056,Allahabad,04:00,Saturday,Medium
+14115,Pune,04:00,Saturday,High
+22123,NDLS,14:00,Thursday,High
+14115,NDLS,12:00,Tuesday,High
+12951,Jaipur,08:00,Wednesday,High
+12312,Howrah,10:00,Friday,High
+12876,Patna,06:00,Saturday,Low
+14265,Varanasi,22:00,Sunday,Medium
+12002,Jaipur,18:00,Monday,Medium
+14265,Solapur,08:00,Friday,Medium
+13123,NDLS,20:00,Thursday,Very High
+22123,Kanpur,22:00,Saturday,Low
+12951,Patna,22:00,Sunday,High
+11056,Kanpur,12:00,Saturday,Low
+12312,Varanasi,16:00,Thursday,Medium
+12312,Patna,18:00,Monday,High
+14115,Jaipur,12:00,Sunday,Medium
+14115,Pune,04:00,Saturday,High
+12876,Mumbai CST,18:00,Thursday,High
+12002,Varanasi,08:00,Monday,Very High
+14115,Chandigarh,18:00,Thursday,Medium
+11056,Kanpur,08:00,Monday,Low
+12261,Lucknow,06:00,Monday,Low
+14265,Howrah,20:00,Wednesday,High
+12261,Jaipur,14:00,Thursday,High
+12261,Solapur,04:00,Thursday,Low
+12261,Howrah,14:00,Wednesday,Low
+11056,Patna,04:00,Wednesday,High
+22123,Dhanbad,10:00,Monday,High
+14265,Howrah,14:00,Thursday,High
+13123,Jaipur,22:00,Wednesday,Very High
+12312,Howrah,16:00,Friday,Medium
+12312,NDLS,06:00,Wednesday,Low
+12312,Dhanbad,10:00,Thursday,Medium
+14265,Pune,18:00,Tuesday,Very High
+12312,Jaipur,04:00,Wednesday,Low
+12002,Lucknow,08:00,Monday,Medium
+14265,Kanpur,14:00,Sunday,Low
+11056,Allahabad,14:00,Monday,Very High
+14265,Patna,18:00,Saturday,Low
+11056,Lucknow,08:00,Thursday,High
+12312,Jaipur,08:00,Friday,Low
+11056,Patna,16:00,Saturday,Medium
+12002,Solapur,04:00,Tuesday,High
+12951,Pune,08:00,Saturday,High
+12951,Chandigarh,20:00,Saturday,Medium
+11056,Chandigarh,12:00,Friday,High
+12876,Chandigarh,20:00,Wednesday,Medium
+12312,Dhanbad,18:00,Thursday,Low
+12876,Solapur,22:00,Wednesday,High
+22123,Lucknow,08:00,Monday,Medium
+12876,NDLS,12:00,Wednesday,Medium
+12261,Kanpur,04:00,Sunday,High
+12002,Mumbai CST,10:00,Tuesday,High
+12002,Mumbai CST,14:00,Wednesday,Low
+12261,Howrah,12:00,Thursday,High
+12261,Chandigarh,08:00,Sunday,High
+12951,Dhanbad,16:00,Thursday,High
+12951,Kanpur,14:00,Wednesday,Medium
+12876,Dhanbad,06:00,Friday,Medium
+12261,Lucknow,08:00,Monday,Very High
+12951,Dhanbad,08:00,Saturday,Medium
+13123,Pune,06:00,Thursday,High
+12002,Allahabad,18:00,Thursday,Medium
+12312,Patna,10:00,Monday,High
+12261,Chandigarh,22:00,Saturday,High
+14115,NDLS,06:00,Tuesday,High
+12951,Howrah,16:00,Thursday,High
+12261,Mumbai CST,04:00,Monday,Very High
+12951,Howrah,14:00,Sunday,High
+12312,Pune,16:00,Friday,High
+12261,Pune,06:00,Monday,High
+12002,Varanasi,08:00,Thursday,High
+12951,Mumbai CST,14:00,Monday,Medium
+22123,Varanasi,18:00,Monday,High
+14265,Lucknow,18:00,Sunday,Low
+13123,Dhanbad,12:00,Thursday,Low
+14265,Mumbai CST,08:00,Sunday,High
+12002,Pune,16:00,Wednesday,High
+14115,Varanasi,08:00,Wednesday,High
+22123,Lucknow,18:00,Thursday,Low
+14265,Pune,14:00,Monday,Very High
+13123,Varanasi,16:00,Wednesday,Medium
+13123,Patna,20:00,Sunday,High
+22123,Chandigarh,22:00,Sunday,High
+22123,Varanasi,16:00,Tuesday,Very High
+13123,Lucknow,04:00,Thursday,High
+12002,Mumbai CST,10:00,Thursday,Medium
+22123,Mumbai CST,12:00,Sunday,High
+12312,Lucknow,04:00,Wednesday,High

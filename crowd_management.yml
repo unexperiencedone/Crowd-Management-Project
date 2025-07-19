@@ -1,0 +1,18 @@
+name: Crowd_Management
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - flask                  # For web backend
+  - flask-cors             # To handle CORS if you connect to frontend
+  - pandas                 # For data handling
+  - numpy                  # Numerical operations
+  - scikit-learn           # ML model training and predictions
+  - matplotlib             # For plotting (optional but useful)
+  - seaborn                # For better plots (optional)
+  - jupyterlab             # If you want to use notebooks
+  - pip
+  - pip:
+      - joblib             # To save/load models
+      - gunicorn           # For production-ready deployment (optional)
