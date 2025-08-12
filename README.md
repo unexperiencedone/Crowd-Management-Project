@@ -1,4 +1,4 @@
-````markdown
+
 # Crowd Management Project
 
 ## 📑 Table of Contents
@@ -47,9 +47,8 @@ jupyter notebook crowd_management.ipynb
 
 ## 📧 Contact
 
-**Author:** Akshant Kumar
-**Email:** [kumaraakshant2005@gmail.com](mailto:kumaraakshant2005@gmail.com)
+**Author:** Aakshant Kumar<br>
+**Email:** [kumaraakshant2005@gmail.com](mailto:kumaraakshant2005@gmail.com)<br>
 **GitHub:** [unexperiencedone](https://github.com/unexperiencedone)
 
-```
 ```
